@@ -59,10 +59,18 @@ Copiar código
 
 ---
 
-## 🧬 Visual Matrix (SVG)
+## 📊 GitHub Live Stats
 <p align="center">
-  <!-- matrix-style SVG image; hosted raw on GitHub (public) -->
-  <img width="640" src="https://raw.githubusercontent.com/ItzCrazyKns/ItzCrazyKns/master/matrix.svg" alt="matrix" />
+  <img 
+    alt="GitHub Stats"
+    height="180em"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=4bit9d&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img 
+    alt="Top Languages"
+    height="180em"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=4bit9d&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 
@@ -71,8 +79,3 @@ Copiar código
 
 ---
 
-Obrigado — já deixei tudo pronto e testado para rodar **dentro do README**.  
-Se quiser, eu gero também um `profile-assets/` com SVGs customizados (por exemplo: osciloscópio e glitch header) — mando os arquivos prontos pra você commitar no repo. Deseja que eu adicione um **SVG osciloscópio** e um **glitch header** agora (eu os incluo inline como links prontos para colar)?  
-
-Se sim, já adiciono aqui os *raw links* e a versão do README com esses assets embutidos.
-::contentReference[oaicite:0]{index=0}
