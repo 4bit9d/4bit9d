@@ -1,8 +1,4 @@
-<!-- =========================
-     README Perfil — 4bit9d
-     Tema: HACKER / CYBER / DARK
-     Colar inteiro no repositório 4bit9d/4bit9d
-   ========================= -->
+
 
 <p align="center">
   <!-- Typing animated banner -->
@@ -23,11 +19,11 @@
 $ whoami
 
 4bit9d
-hacker / dev — security | reverse-engineering | low-level | automation
+ dev | hacking | security | reverse-engineering | low-level | automation
 $ location
 Brasil
 $ motto
-code deep. learn deeper. break ethically.
+code deep. learn deeper. grayhat.
 
 yaml
 Copiar código
@@ -47,24 +43,9 @@ Copiar código
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=4bit9d&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
----
 
-## 🔍 Projetos em destaque
-> *Coloque links diretos para cada repositório (substitua os placeholders abaixo).*
 
-- **feigital** — Marketplace / e-commerce (automação + backend).  
-  `https://github.com/4bit9d/feigital`  
-- **camera-cable** — Transformar celular em webcam via cabo (Python).  
-  `https://github.com/4bit9d/camera-cable`  
-- **thumb-synth** — Controle sonoro via distância entre polegar/indicador (CV + audio).  
-  `https://github.com/4bit9d/thumb-synth`
 
-> Dica: marque 2–3 repositórios com `pinned repos` no seu perfil para dar destaque visual.
-
----
-
-## 🧠 Bio curta
-Sou desenvolvedor e entusiasta de segurança com foco em: **engenharia reversa, automação, low-level, e pesquisa**. Gosto de transformar problemas complexos em ferramentas práticas e compartilhar conhecimento em código aberto.
 
 ---
 
@@ -84,42 +65,9 @@ Sou desenvolvedor e entusiasta de segurança com foco em: **engenharia reversa, 
   <img width="640" src="https://raw.githubusercontent.com/ItzCrazyKns/ItzCrazyKns/master/matrix.svg" alt="matrix" />
 </p>
 
----
 
-## 🔒 Ethic & Responsible Use
-Código e pesquisa têm poder. Use com responsabilidade, sempre respeite leis e privacidade. Não auxilio atividades maliciosas.
 
----
 
-## ✉️ Contato
-<p align="center">
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/Email-contact-00ffbf?style=for-the-badge&logo=protonmail&logoColor=111" alt="email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/4bit9d">
-    <img src="https://img.shields.io/badge/GitHub-4bit9d-00eaff?style=for-the-badge&logo=github" alt="github" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-00aaff?style=for-the-badge&logo=linkedin" alt="linkedin" />
-  </a>
-</p>
-
----
-
-## 🛠️ Como personalizar (Rápido)
-1. Substitua `SEU_EMAIL_AQUI` e `SEU_LINKEDIN_AQUI` no bloco **Contato**.  
-2. Garanta que os links dos projetos estejam corretos (substitua os placeholders).  
-3. (Opcional) Se quiser um *ASCII neon header* diferente troque o `readme-typing-svg` query string (eu posso gerar outro texto).
-
----
-
-### ✨ Extras que eu já posso adicionar (só pedir)
-- SVG osciloscópio animado (visual de som)  
-- Painel CCTV (várias janelas com mini-stats)  
-- SVG “status LED” piscante que indica *online / coding / idle*  
-- Glitch ASCII header + small dark background image (tudo compatível com README)
 
 ---
 
